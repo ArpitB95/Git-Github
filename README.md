@@ -149,3 +149,6 @@ This command fetches and merges changes on the remote server to your working dir
 
 Note: Git push only uploads changes that are committed.
 
+<img width="485" alt="GIT Cheatsheet" src="https://user-images.githubusercontent.com/110182832/182569843-bb495d60-48e0-4e3a-9bff-49b7a09b6ddd.png">
+
+
